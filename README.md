@@ -10,11 +10,9 @@
 
 ---
 
-**Missão Prática | Nível 4 | Mundo 5**
+**Missão Prática | Nível 4 | Mundo 5 - Dando Inteligência ao Software**
 
-**Dando Inteligência ao Software**
-
-Utilizando Ferramentas de IA na Nuvem.
+**Utilizando Ferramentas de IA na Nuvem.**
 
 ---
 **Objetivos da prática**
